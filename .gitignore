@@ -1,0 +1,15 @@
+# The files and folders in this list will be ignored
+
+# Files
+test 1
+test 2
+
+# Folders
+passwords/
+
+# Files with extensions
+
+new features.html
+
+# Ignore everything with .txt
+*.txt
